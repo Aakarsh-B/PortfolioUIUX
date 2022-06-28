@@ -98,6 +98,14 @@
 /*---------------------------------
     typography css start 
 ---------------------------------*/
+
+.height-auto {
+  height: auto;
+}
+.d-inline-block {
+  display: inline-block;
+}
+
 body {
   font-family: var(--tp-ff-body);
   font-size: var(--tp-fz-body);
@@ -13871,5 +13879,9 @@ p.checkout-coupon input[type=text]::placeholder {
   color: #285da1;
   background-color: #fff;
 }
+
+
+
+
 
 /*# sourceMappingURL=style.css.map */
