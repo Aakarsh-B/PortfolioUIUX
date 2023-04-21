@@ -1225,7 +1225,7 @@ input[type=color] {
 }
 .sidebar__close {
   position: absolute;
-  top: 48px;
+  top: 36px;
   right: 45px;
 }
 @media (max-width: 575px) {
@@ -1249,7 +1249,6 @@ input[type=color] {
 }
 .sidebar__logo {
   padding-bottom: 20px;
-  border-bottom: 1px solid var(--tp-border-1);
 }
 .sidebar__search {
   position: relative;
