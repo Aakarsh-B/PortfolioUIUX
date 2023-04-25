@@ -5724,6 +5724,8 @@ blockquote {
 }
 .blog-grid-thumb .grid-image {
   overflow: hidden;
+  max-height: 260px; 
+  object-fit: cover;
 }
 .blog-grid-tag {
   font-size: 11px;
